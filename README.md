@@ -1,0 +1,1 @@
+# libs_processamentos_imagens
